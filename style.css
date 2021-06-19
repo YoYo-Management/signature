@@ -1,0 +1,164 @@
+.yoyomusic-signature {
+    width: 420px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.yoyomusic-signature, .yoyomusic-signature, * {
+    line-height: 1rem;
+}
+
+.yoyomusic-signature.signature-footer {
+    width: 100%;
+}
+
+.yoyomusic-signature, .yoyomusic-signature table {
+    border-collapse: collapse;
+}
+
+.yoyomusic-signature .header-banner-wrap {
+    width: 320px;
+}
+.yoyomusic-signature .header-banner {
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px 12px 3px 12px;
+    width: 100%;
+}
+
+.yoyomusic-signature .header-banner .header-banner-container {
+    padding: 10px 32px 10px 8px;
+}
+
+.yoyomusic-signature td {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.yoyomusic-signature .name-title {
+    padding-left: 18px;
+}
+
+.yoyomusic-signature .heading-name {
+    color: #fff;
+    font-size: 18px;
+    line-height: 19px;
+    font-weight: 600;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.yoyomusic-signature .heading-title {
+    font-size: 13px;
+    line-height: 17px;
+    font-weight: 400;
+    color: rgb(230, 230, 230);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.yoyomusic-signature .contact-container {
+    margin-top: 12px;
+}
+
+.yoyomusic-signature .contact-pipe-art-container {
+    height: 100%;
+    padding-left: 8px;
+    padding-right: 12px;
+    vertical-align: top;
+}
+
+.yoyomusic-signature .contact-pipe-art {
+    width: 8px;
+    height: 100%;
+    min-height: 64px;
+    background: rgb(166,17,208);
+    background: linear-gradient(140deg, rgba(166,17,208,1) 0%, rgba(58,67,255,1) 100%); 
+    border-radius: 1px 5px 1px 5px;
+    white-space: pre;
+    overflow: hidden;
+}
+
+.yoyomusic-signature .contact {
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 300;
+    color: rgb(44, 44, 44);
+    padding-top: 0;
+    padding-bottom: 4px;
+}
+
+.yoyomusic-signature .contact.contact-address {
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.yoyomusic-signature .contact b {
+    font-weight: 800;
+}
+
+.yoyomusic-signature .contact a {
+    color: inherit !important;
+}
+
+.yoyomusic-signature .contact-divider {
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.yoyomusic-signature .footer-text {
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 300;
+    color: rgb(66, 66, 66);
+    padding-top: 0;
+    padding-bottom: 4px;
+}
+
+.yoyomusic-signature .footer-text a {
+    color: inherit !important;
+}
+
+.yoyomusic-signature.signature-footer .image-banner-link {
+    text-decoration: none;
+    color: inherit;
+    max-width: 100%;
+    width: 540px;
+}
+
+.yoyomusic-signature.signature-footer .image-banner-link img {
+    width: 540px;
+    max-width: 100%;
+}
+
+.yoyomusic-signature .hr {
+    border: none;
+    margin-left: 0;
+    width: 100%;
+    max-width: 560px;
+    height: 1px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background: rgb(235,235,235);
+    background: linear-gradient(90deg, rgba(235,235,235,1) 50%, rgba(235,235,235,0) 90%); 
+    white-space: pre;
+    overflow: hidden;
+}
+
+.yoyomusic-signature .product-link {
+    line-height: 13px;
+}
+
+.yoyomusic-signature .product-link a {
+    font-size: 10px;
+    line-height: 13px;
+    font-weight: 300;
+    color: rgb(44, 44, 44);
+    padding-top: 0;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin-right: 8px;
+}
+.yoyomusic-signature .product-link a b {
+    font-weight: 600;
+}
